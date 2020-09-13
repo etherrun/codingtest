@@ -19,7 +19,7 @@ const REPLENISH_ORDERS = true;
 const CANCEL_UNFILLED = true;
 // Not required, but for my viewing pleasure:
 const FORMAT_VALUES = true;
-const SHOW_PROFIT_LOSS = true;
+const SHOW_PROFIT_LOSS = false;
 
 const BASE_ASSET = "ETH"; // base asset
 const COUNTER_ASSET = "USD"; // counter asset
